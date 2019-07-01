@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
+=======
+hello
+>>>>>>> a5a9ab5a314bc06e8ca7812c0b454bcbaa54cac0
 final
